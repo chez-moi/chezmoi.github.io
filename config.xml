@@ -3,37 +3,37 @@
 <juiceboxgallery
 	galleryTitle="Juicebox Lite Gallery"
 >
-  <image imageURL="images/_MG_3130.jpg"
-	thumbURL="images/_MG_3130.jpg"
+  <image imageURL="images/3130.jpg"
+	thumbURL="images/3130.jpg"
 	linkURL="images/wide.jpeg"
 	linkTarget="_blank">
   </image>
-  <image imageURL="images/_MG_3133.jpg"
-	thumbURL="images/_MG_3133.jpg">
+  <image imageURL="images/3133.jpg"
+	thumbURL="images/3133.jpg">
   </image>
-  <image imageURL="images/_MG_3136.JPG"
-	thumbURL="images/_MG_3136.JPG"
+  <image imageURL="images/3136.jpg"
+	thumbURL="images/3136.jpg"
 	linkURL="images/wide.jpeg"
 	linkTarget="_blank">
   </image>
-  <image imageURL="images/_MG_3143.JPG"
-	thumbURL="images/_MG_3143.JPG">
+  <image imageURL="images/3143.jpg"
+	thumbURL="images/3143.jpg">
   </image>
-  <image imageURL="images/_MG_3161.JPG"
-	thumbURL="images/_MG_3161.JPG"
+  <image imageURL="images/3161.jpg"
+	thumbURL="images/3161.jpg"
 	linkURL="images/wide.jpeg"
 	linkTarget="_blank">
   </image>
-  <image imageURL="images/_MG_3171.JPG"
-	thumbURL="images/_MG_3171.JPG">
+  <image imageURL="images/3171.jpg"
+	thumbURL="images/3171.jpg">
   </image>
-  <image imageURL="images/_MG_3173.JPG"
-	thumbURL="images/_MG_3173.JPG"
+  <image imageURL="images/3173.jpg"
+	thumbURL="images/3173.jpg"
 	linkURL="images/wide.jpeg"
 	linkTarget="_blank">
   </image>
-  <image imageURL="images/_MG_3190.JPG"
-	thumbURL="images/_MG_3190.JPG">
+  <image imageURL="images/3190.jpg"
+	thumbURL="images/3190.jpg">
 	</image>
 
 </juiceboxgallery>

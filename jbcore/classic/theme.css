@@ -12,6 +12,16 @@
  * Build Time: 05/24/2016 11:13:09 AM
  */
 
+.cartouche-annonce {
+	padding: 10px 0 0 20px;
+	font-family: sans-serif;
+}
+
+.titre-annonce {
+	font-size: 20px;
+
+}
+
 .juicebox-gallery
 {
 	outline: none;
@@ -747,11 +757,6 @@ div.jb-status-loading {
 	padding: 0;
 	text-align: center
 }
-.jb-badge
-{
-	background: url('img/jb001.png') no-repeat center;
-}
-
 
 /****** font icon stuff ******/
 @font-face {

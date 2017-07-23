@@ -3,37 +3,37 @@
 <juiceboxgallery
 	galleryTitle="Juicebox Lite Gallery"
 >
-  <image imageURL="images/3130.jpg"
-	thumbURL="images/3130.jpg"
+  <image imageURL="images/01.jpg"
+	thumbURL="images/01.jpg"
 	linkURL="images/wide.jpeg"
 	linkTarget="_blank">
   </image>
-  <image imageURL="images/3133.jpg"
-	thumbURL="images/3133.jpg">
+  <image imageURL="images/02.jpg"
+	thumbURL="images/02.jpg">
   </image>
-  <image imageURL="images/3136.jpg"
-	thumbURL="images/3136.jpg"
+  <image imageURL="images/03.jpg"
+	thumbURL="images/03.jpg"
 	linkURL="images/wide.jpeg"
 	linkTarget="_blank">
   </image>
-  <image imageURL="images/3143.jpg"
-	thumbURL="images/3143.jpg">
+  <image imageURL="images/04.jpg"
+	thumbURL="images/04.jpg">
   </image>
-  <image imageURL="images/3161.jpg"
-	thumbURL="images/3161.jpg"
+  <image imageURL="images/05.jpg"
+	thumbURL="images/05.jpg"
 	linkURL="images/wide.jpeg"
 	linkTarget="_blank">
   </image>
-  <image imageURL="images/3171.jpg"
-	thumbURL="images/3171.jpg">
+  <image imageURL="images/06.jpg"
+	thumbURL="images/06.jpg">
   </image>
-  <image imageURL="images/3173.jpg"
-	thumbURL="images/3173.jpg"
+  <image imageURL="images/07.jpg"
+	thumbURL="images/07.jpg"
 	linkURL="images/wide.jpeg"
 	linkTarget="_blank">
   </image>
-  <image imageURL="images/3190.jpg"
-	thumbURL="images/3190.jpg">
+  <image imageURL="images/08.jpg"
+	thumbURL="images/08.jpg">
 	</image>
 
 </juiceboxgallery>

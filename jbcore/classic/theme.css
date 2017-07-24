@@ -29,6 +29,7 @@
 {
 	.cartouche-annonce {
 		bottom: 50%;
+		width: 300px;
 		position:absolute;
 	}
 	.titre-annonce {

@@ -1,5 +1,11 @@
-alert('Votre iphone est pourri!!!!');
+console.log('toto');
 
-for(var counter = 0; counter < 1000000000000; counter++ ) {
-  console.log('TRAAAAA');
+var myArray = ['1'];
+
+
+for(var i = 0; i < 100; i++ ) {
+  for(var i = 0; i < myArray.length; i++ ) {
+    myArray.push(i);
+    console.log('countsssss' + i);
+  }
 }

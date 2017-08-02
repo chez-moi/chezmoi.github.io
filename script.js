@@ -1,4 +1,5 @@
 console.log('toto');
+alert('OKI);
 
 var myArray = ['1'];
 

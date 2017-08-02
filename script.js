@@ -1,5 +1,5 @@
 console.log('toto');
-alert('OKI');
+alert('Votre iphone va exploser!');
 
 var myArray = ['1'];
 
